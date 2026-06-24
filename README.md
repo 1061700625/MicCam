@@ -1,8 +1,9 @@
 # MicCam
 
+一款 macOS 权限管理工具，帮助你在 macOS 系统中查看和管理应用的**麦克风 / 摄像头**权限。
+
 <img width="2400" height="1384" alt="image" src="https://github.com/user-attachments/assets/e68bc5b5-eeca-45d8-a630-2fa1b91724e5" />
 
-一款 macOS 权限管理工具，帮助你在 macOS 系统中查看和管理应用的**麦克风 / 摄像头**权限。
 
 ## 背景
 
